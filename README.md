@@ -130,9 +130,9 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ### New Sample Data Prediction
 
 <img width="392" alt="image" src="https://github.com/JayanthYadav123/mnist-classification/assets/94836154/9a6732b2-cb5d-4bbc-97e7-db0922e9d668">
-
+</br>
 <img width="319" alt="image" src="https://github.com/JayanthYadav123/mnist-classification/assets/94836154/4a10dbc3-db4f-46b8-8cf6-85923549b450">
-
+</br>
 <img width="357" alt="image" src="https://github.com/JayanthYadav123/mnist-classification/assets/94836154/6598a4c9-f068-42f9-99e7-adef52e17cb6">
 
 ## RESULT :
